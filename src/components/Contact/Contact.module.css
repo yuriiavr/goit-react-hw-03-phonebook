@@ -1,0 +1,20 @@
+.contact__delete__btn {
+    background-color: #f4f4f4;
+    color: #786c5e;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.4;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    box-shadow: 0px 2px 60px 12px rgba(0, 0, 0, 0.1);
+  }
+  .contact__info {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 14px;
+    color: #786c5e;
+  }
+  .contact__delete__btn:hover {
+    box-shadow: 0px 0px 11px 5px rgba(0, 0, 0, 0.1);
+  }
